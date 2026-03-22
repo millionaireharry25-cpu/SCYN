@@ -1,0 +1,5 @@
+{
+  "name": "TeleGlass Chat",
+  "description": "A modern, real-time chat application with glassmorphism UI, supporting messaging, calling, and notes.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
